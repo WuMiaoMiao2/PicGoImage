@@ -1,1 +1,2 @@
-写博客上传图片的仓库
+# 博客图片仓库
+PicGo + Github token
